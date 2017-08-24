@@ -9,13 +9,13 @@
 	<packaging>jar</packaging>
 
 	<name>articulate</name>
-	<description>Articulate the value of Cloud Foundry </description>
+	<description>Articulate the value of Cloud Foundry</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.2.6.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath>../<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
